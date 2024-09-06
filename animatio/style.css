@@ -1,0 +1,9 @@
+body{
+    background-image: url(bg3.gif);
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+#character{
+position: absolute;
+bottom:25%;
+}
